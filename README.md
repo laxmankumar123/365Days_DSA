@@ -52,4 +52,3 @@ Thanks if you like my work !!
 
 I love connecting with new people, give me a shout at
 
-Email : singlashubham1206@gmail.com
