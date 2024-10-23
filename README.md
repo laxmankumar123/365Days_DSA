@@ -1,7 +1,7 @@
 This repo contains all the must do coding questions in DSA and their solutions using Python. There will be around 300+ questions. This is an on going task. My target is to upload atleast 10 questions per week.
 
 Below are the topics that will be covered are :
-
+#################################################################
 1. Math
 
 2. BitMagic
