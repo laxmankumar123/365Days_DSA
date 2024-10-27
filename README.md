@@ -2,7 +2,7 @@
 ![Twitter Logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png)
 
 
-<a href="https://twitter.com/yourusername">
+<a href="https://twitter.com/laxmankumarIITB">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="Twitter Logo" width="50"/>
 </a>
 
