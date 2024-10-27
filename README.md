@@ -1,3 +1,9 @@
+
+![Twitter Logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png)
+
+
+
+
 This repo contains all the must do coding questions in DSA and their solutions using Python. There will be around 300+ questions. This is an on going task. My target is to upload atleast 10 questions per week.
 
 Below are the topics that will be covered are :
