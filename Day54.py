@@ -6,7 +6,7 @@ def maximumProfit(self, prices):
         max_prof=0
         while j<len(prices):
             if prices[j]>prices[i]:
-                max_prof = max(max_prof, prices[j] - prices[i])
+                max_prof =max(max_prof, prices[j] - prices[i])
             else:
                 i=j
             j+=1
