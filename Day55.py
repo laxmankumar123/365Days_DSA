@@ -11,7 +11,5 @@ class Solution:
             rob_current_house = nums[index] + calculate_max_amount(index + 2)
             
             memo[index] = max(skip_current_house, rob_current_house)
-
             return memo[index]
-
         return calculate_max_amount(0)
